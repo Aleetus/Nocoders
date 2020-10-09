@@ -1370,7 +1370,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40f05688122b143148fc8b49a93a58a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Load_Scene: PauseMenuTest
+  Load_Scene: Level
 --- !u!1 &3817415800492981916
 GameObject:
   m_ObjectHideFlags: 0
