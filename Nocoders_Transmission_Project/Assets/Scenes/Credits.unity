@@ -345,6 +345,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 2069321470}
   - {fileID: 2087771207}
   m_Father: {fileID: 1935924486}
   m_RootOrder: 0
@@ -714,7 +715,7 @@ GameObject:
   - component: {fileID: 2069321472}
   - component: {fileID: 2069321471}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Names
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -727,16 +728,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2069321469}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2087771207}
-  m_RootOrder: 2
+  m_Father: {fileID: 600326836}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 142}
+  m_AnchoredPosition: {x: 0, y: 14.520142}
   m_SizeDelta: {x: 160, y: 109.57059}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2069321471
@@ -772,13 +773,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Luc Courbould
+  m_Text: 'Jordan Clements
+
+    Luc Corbould
 
     James Coventry
 
     Kory Dunk
-
-    Jordan Kemp
 
     Michael
     Wiggins'
@@ -822,9 +823,8 @@ RectTransform:
   m_Children:
   - {fileID: 1521550185}
   - {fileID: 601941650}
-  - {fileID: 2069321470}
   m_Father: {fileID: 600326836}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
